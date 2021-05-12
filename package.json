@@ -35,7 +35,7 @@
     "firebase": "^7.14.4",
     "material-ui": "^0.20.2",
     "mongodb": "3.5.5",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "react": "16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "16.13.1",
